@@ -4,7 +4,6 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/usr/local/include",
                 //"Z:\\work\\longan\\kernel\\linux-4.9\\include",
                 //"Z:\\work\\longan\\kernel\\linux-5.4\\include",
                 //"Z:\\work\\T507\\kunos\\out\\gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu\\aarch64-linux-gnu\\libc\\usr\\include"
