@@ -4,7 +4,6 @@
     "C_Cpp.vcFormat.newLine.beforeOpenBrace.lambda": "sameLine",
     "C_Cpp.vcFormat.newLine.beforeOpenBrace.namespace": "sameLine",
     "C_Cpp.vcFormat.newLine.beforeOpenBrace.type": "sameLine",
-    "editor.formatOnSave": true,
     "javascript.format.placeOpenBraceOnNewLineForFunctions": true,
     "javascript.format.placeOpenBraceOnNewLineForControlBlocks": false,
     "typescript.format.placeOpenBraceOnNewLineForControlBlocks": false,
@@ -94,6 +93,13 @@
         "designAddHead": false,
         "headDesignName": "random",
         "headDesign": false
+    },
+    "editor.formatOnType": true,
+    "editor.formatOnSaveMode": "modifications",
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "ostream": "c",
+        "iostream": "cpp"
     },
 
 }
